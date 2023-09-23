@@ -1,0 +1,12 @@
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\NUnit3.TestAdapter.dll
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\NUnit3.TestAdapter.pdb
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\nunit.engine.dll
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\nunit.engine.api.dll
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\nunit.engine.core.dll
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\testcentric.engine.metadata.dll
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\Assisted8.dll
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\bin\Debug\Assisted8.pdb
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\obj\Debug\Assisted8.csproj.AssemblyReference.cache
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\obj\Debug\Assisted8.csproj.CoreCompileInputs.cache
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\obj\Debug\Assisted8.dll
+D:\Training\phase3\AssistedProjects\Assisted8\Assisted8\obj\Debug\Assisted8.pdb
